@@ -1,0 +1,24 @@
+h1 {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(65, 39, 172);
+}
+
+.i1{
+    color: rgb(249, 1, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.i2{
+    color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.i3{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
